@@ -28,7 +28,8 @@ This project analyzes hotel booking data to track revenue, cancellation trends, 
 - Price vs stay behavior insights
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1174" height="656" alt="image" src="https://github.com/user-attachments/assets/7d925bbb-8316-47fc-b7af-0cb6978955c1" />
+
 
 ## 📁 Files Included
 - Hotel_Dashboard.pbix
