@@ -1,5 +1,5 @@
 
-# Hotel Booking Analysis Dashboard (Power BI)
+# Hotel Booking Analysis Dashboard | Power BI + SQL + Python
 
 ## 📊 Overview
 This project analyzes hotel booking data to track revenue, cancellation trends, and customer behavior. The goal is to provide actionable insights for improving revenue and operational efficiency.
@@ -32,5 +32,5 @@ This project analyzes hotel booking data to track revenue, cancellation trends, 
 
 
 ## 📁 Files Included
-- Hotel_Dashboard.pbix
+
 - dashboard.png
